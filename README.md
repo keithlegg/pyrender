@@ -1,2 +1,7 @@
 # pyrender
-3D renderer, image compositor, procedural modeling, and experimental scene graph, all in pure python using PIL.
+ -3D renderer (wireframe and scanline)
+- image compositor
+- procedural modeling
+- experimental scene graph
+
+All in pure python using PIL.
