@@ -1,4 +1,4 @@
-This was fun to write, but it is a dead project. See my pyrender2 for the latest and better rewrite. 
+This was fun to write, but it is a dead project. 
 
 # pyrender
  -3D renderer (wireframe and scanline)
